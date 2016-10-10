@@ -9,6 +9,7 @@ In particular, we have proposed the sentenceLDA in the SIGIR 2016 paper :
 
 In case you use the model, please cite our paper:
 >@inproceedings{DBLP:conf/sigir/BalikasAC16,
+
 >  author    = {Georgios Balikas and
 >               Massih{-}Reza Amini and
 >               Marianne Clausel},
