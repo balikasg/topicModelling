@@ -8,11 +8,10 @@ In particular, we have proposed the sentenceLDA in the SIGIR 2016 paper :
  [On a topic model for sentences](https://arxiv.org/pdf/1606.00253v1.pdf).
 
 In case you use the model, please cite our paper:
->@inproceedings{DBLP:conf/sigir/BalikasAC16,
-
->  author    = {Georgios Balikas and
->               Massih{-}Reza Amini and
->               Marianne Clausel},
+>@inproceedings{balikas2016sigir,
+  author    = {Georgios Balikas and
+               Massih{-}Reza Amini and
+               Marianne Clausel},
 >  title     = {On a Topic Model for Sentences},
 >  booktitle = {Proceedings of the 39th International {ACM} {SIGIR} conference on
 >               Research and Development in Information Retrieval, {SIGIR} 2016, Pisa,
