@@ -27,6 +27,22 @@ In case you use the model, please cite our paper:
   pages     = {921--924},
   year      = {2016}}
 ```
+
+For the copulaLDA model, please also cite:
+```
+@InProceedings{balikas-EtAl:2016:COLING,
+  author    = {Balikas, Georgios  and  Amoualian, Hesam  and  Clausel, Marianne  and  Gaussier, Eric  and  Amini, Massih R},
+  title     = {Modeling topic dependencies in semantically coherent text spans with copulas},
+  booktitle = {Proceedings of COLING 2016, the 26th International Conference on Computational Linguistics: Technical Papers},
+  month     = {December},
+  year      = {2016},
+  address   = {Osaka, Japan},
+  publisher = {The COLING 2016 Organizing Committee},
+  pages     = {1767--1776},
+  url       = {http://aclweb.org/anthology/C16-1166}
+}
+
+```
 Notes
 ====
 This is development code and may not be fully functional. That said, the code was tested with Python 2.7 and R 3.1.1 and was functional. Normally, you should be able to reproduce all the experiments reported in the papers. 
