@@ -4,6 +4,7 @@ from nltk.tokenize import sent_tokenize
 import numpy as np
 recover_list = {"wa":"was", "ha":"has"}
 
+print ("Dan is the best")
 
 class VocabularySentenceLayer:
     def __init__(self, stopwords, wl, excluds_stopwords=False):
